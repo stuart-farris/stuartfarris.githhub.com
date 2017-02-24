@@ -1,2 +1,3 @@
 name: Chris Kremer dot Rocks
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
