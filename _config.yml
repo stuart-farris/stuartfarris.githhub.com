@@ -1,4 +1,4 @@
-name: Chris Kremer dot Rocks
+name: Stuart Farris
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
