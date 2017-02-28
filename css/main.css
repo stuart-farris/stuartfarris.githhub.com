@@ -43,6 +43,10 @@ ul.posts li {
 }
 .img-circle {
     border-radius: 50%;
+    /* Centering on image`s center*/
+	background-position-y: center;
+	background-position-x: center;
+	background-repeat: no-repeat;
 }
 div.circle-avatar{
 /* make it responsive */
