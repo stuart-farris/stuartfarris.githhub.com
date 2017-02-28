@@ -47,3 +47,17 @@ ul.posts li {
   top: 50%;
   transform: translateY(-50%);
 }
+header img, header nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+header nav li {
+    display: inline-block;
+
+    width: 19%;
+    }
+
+header nav li a {
+    background: #2CB2E6;
+    line-height: 
+    }
