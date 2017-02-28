@@ -44,7 +44,7 @@ ul.posts li {
 .img-circle {
     border-radius: 50%;
 }
- .nav li {
+.nav li {
     display: inline-block;
     border: 1px solid red;
     vertical-align: middle;
